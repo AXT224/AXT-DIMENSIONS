@@ -51,45 +51,27 @@ Unlike traditional AI systems that generate only videos or static images, the un
 ---
 ## 🎬 AXT DIMENSIONS — Demo
 
- Interactive World Experience
+### 🌐 Interactive World Experience
 
-[Interactive Demo](assets/interactive.gif)
+![Interactive World Experience](assets/interactive.gif)
 
- Mesh Generation
+### 🧩 Mesh Generation
 
-[Mesh Generation Demo](assets/mesh_en.gif)
+![Mesh Generation](assets/mesh_en.gif)
 
- World Reconstruction
+### 🏗️ World Reconstruction
 
-[World Reconstruction Demo](assets/recon_en.gif)
+![World Reconstruction](assets/recon_en.gif)
 
- AXT DIMENSIONS Showcase
+### 🌌 AXT DIMENSIONS Showcase
 
 ![AXT DIMENSIONS Showcase](assets/screenshot_7.gif)
- ✨ Core Capabilities
-
- 🌍 AI World Generation
-
-Generate immersive virtual environments from descriptive inputs.
-
-The system explores a multi-stage world generation pipeline that can transform high-level visual concepts into structured three-dimensional environments.
-
-Potential inputs include:
-
-* Text descriptions
-* Single images
-* Visual references
-
-Potential outputs include persistent 3D representations such as:
-
-* Meshes
-* Gaussian Splats
-* Structured 3D scenes
 
 ---
 
-### 🖼️ Image to 3D World
+## ✨ Core Capabilities
 
+### 🖼️ Image to 3D Worlds
 Explore the transformation of a single visual reference into a larger three-dimensional environment.
 
 This creates possibilities for workflows such as:
