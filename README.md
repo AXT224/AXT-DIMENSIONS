@@ -49,10 +49,26 @@ AXT DIMENSIONS supports the exploration of workflows such as:
 Unlike traditional AI systems that generate only videos or static images, the underlying technology explored by this project focuses on persistent 3D representations that can potentially be explored, edited and integrated into compatible 3D workflows.
 
 ---
+## 🎬 AXT DIMENSIONS — Demo
 
-## ✨ Core Capabilities
+ Interactive World Experience
 
-### 🌍 AI World Generation
+[Interactive Demo](assets/interactive.gif)
+
+ Mesh Generation
+
+[Mesh Generation Demo](assets/mesh_en.gif)
+
+ World Reconstruction
+
+[World Reconstruction Demo](assets/recon_en.gif)
+
+ AXT DIMENSIONS Showcase
+
+![AXT DIMENSIONS Showcase](assets/screenshot_7.gif)
+ ✨ Core Capabilities
+
+ 🌍 AI World Generation
 
 Generate immersive virtual environments from descriptive inputs.
 
