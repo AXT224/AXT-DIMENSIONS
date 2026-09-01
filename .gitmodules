@@ -1,0 +1,3 @@
+[submodule "hyworld2/worldgen/third_party/recastnavigation"]
+	path = hyworld2/worldgen/third_party/recastnavigation
+	url = https://github.com/recastnavigation/recastnavigation.git
